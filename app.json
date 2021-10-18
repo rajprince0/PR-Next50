@@ -1,0 +1,26 @@
+{
+  "id": "b5b3acb4-c25e-4c4c-b760-2f104276f2ed",
+  "name": "Purchase Requisition",
+  "publisher": "NEXT50",
+  "version": "1.0.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "next50.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://HRMSNext50.com/help/",
+  "showMyCode": true,
+  "runtime": "7.2"
+}
